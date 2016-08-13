@@ -1,4 +1,4 @@
-<?php namespace Slynova\Commentable\Models;
+<?php namespace palote2015\com\Models;
 
 /**
  * Part of the Laravel-Commentable package.
