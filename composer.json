@@ -1,5 +1,5 @@
 {
-    "name": "slynova/laravel-commentable",
+    "name": "palote2015/com",
     "description": "Polymorphic threaded comments for Laravel",
     "keywords": ["laravel", "commentable", "comment", "threaded", "nested set"],
     "license": "MIT",
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Slynova\\Commentable\\": "src/Commentable"
+            "palote2015\\com\\": "src/Commentable"
         }
     }
 }
