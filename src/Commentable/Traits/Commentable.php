@@ -1,4 +1,4 @@
-<?php namespace Slynova\Commentable\Traits;
+<?php namespace palote2015\com\Traits;
 
 /**
  * Part of the Laravel-Commentable package.
@@ -17,7 +17,7 @@
  * @copyright  (c) Slynova
  */
 
-use Slynova\Commentable\Models\Comment;
+use palote2015\com\Models\Comment;
 
 trait Commentable
 {
