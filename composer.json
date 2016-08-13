@@ -27,7 +27,7 @@
      "minimum-stability": "dev",
      "repositories": [
         {   
-            "name": "some-vendor/package",
+            "name": "palote2015/com",
             "type": "git",
             "url": "https://github.com/palote2015/com.git"
         }
