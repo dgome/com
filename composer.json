@@ -23,5 +23,6 @@
         "psr-4": {
             "palote2015\\com\\": "src/Commentable"
         }
-    }
+    },
+     "minimum-stability": "dev"
 }
